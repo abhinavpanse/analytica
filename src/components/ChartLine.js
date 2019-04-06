@@ -49,4 +49,3 @@ class ChartLine extends Component {
 }
 
 export default ChartLine;
-    

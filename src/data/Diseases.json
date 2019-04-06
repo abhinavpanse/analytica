@@ -1,0 +1,103 @@
+{
+  "Description":
+    "Diseases of men staying in India by NUTS1 NUTS2 DISEASE REF_YEAR",
+  "data": [
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "DISEASE": "Malaria",
+      "REF_YEAR": "2000",
+      "values": [{ "CASES": 2031790, "DEATHS": 931 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "DISEASE": "Malaria",
+      "REF_YEAR": "2001",
+      "values": [{ "CASES": 2085484, "DEATHS": 1005 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "DISEASE": "Malaria",
+      "REF_YEAR": "2002",
+      "values": [{ "CASES": 1842019, "DEATHS": 973 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "DISEASE": "Malaria",
+      "REF_YEAR": "2003",
+      "values": [{ "CASES": 1869403, "DEATHS": 1006 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "DISEASE": "Malaria",
+      "REF_YEAR": "2004",
+      "values": [{ "CASES": 1915363, "DEATHS": 949 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "DISEASE": "Malaria",
+      "REF_YEAR": "2005",
+      "values": [{ "CASES": 1816569, "DEATHS": 963 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "DISEASE": "Malaria",
+      "REF_YEAR": "2006",
+      "values": [{ "CASES": 1785129, "DEATHS": 1707 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "DISEASE": "Malaria",
+      "REF_YEAR": "2007",
+      "values": [{ "CASES": 1508927, "DEATHS": 1311 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "DISEASE": "Malaria",
+      "REF_YEAR": "2008",
+      "values": [{ "CASES": 1526390, "DEATHS": 1055 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "DISEASE": "Malaria",
+      "REF_YEAR": "2009",
+      "values": [{ "CASES": 1563574, "DEATHS": 1144 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "DISEASE": "Malaria",
+      "REF_YEAR": "2010",
+      "values": [{ "CASES": 1599986, "DEATHS": 1018 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "DISEASE": "Malaria",
+      "REF_YEAR": "2011",
+      "values": [{ "CASES": 1310656, "DEATHS": 754 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "DISEASE": "Malaria",
+      "REF_YEAR": "2012",
+      "values": [{ "CASES": 1067824, "DEATHS": 519 }]
+    },
+    {
+      "NUTS1": "AT3",
+      "NUTS2": "AT32",
+      "DISEASE": "Malaria",
+      "REF_YEAR": "2013",
+      "values": [{ "CASES": 881730, "DEATHS": 440 }]
+}]
+}

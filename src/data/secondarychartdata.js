@@ -1034,6 +1034,7 @@ const secondarychartdata = [
         {
             label: 'cases',
             fillColor: 'rgba(255, 99, 132, 0.6)',
+            backgroundColor:'rgba(255, 99, 132, 0.6)',
             strokeColor: 'rgba(255, 99, 132,1)',
             pointColor: 'rgba(255, 99, 132,1)',
             pointStrokeColor: '#fff',
@@ -1049,11 +1050,12 @@ const secondarychartdata = [
         {
             label: 'deaths',
             fillColor: 'rgba(255, 99, 132,0.2)',
+            backgroundColor:'rgba(255, 60, 92, 0.6)',
             strokeColor: 'rgba(255, 99, 132,1)',
             pointColor: 'rgba(255, 99, 132,1)',
             pointStrokeColor: '#fff',
             pointHighlightFill: '#fff',
-            pointHighlightStroke: 'rgba(255, 99, 132,,1)',
+            pointHighlightStroke: 'rgba(255, 99, 132,1)',
             data: malariadatadeaths,
         }
         ]
@@ -1065,10 +1067,11 @@ const secondarychartdata = [
             label: 'cases',
             fillColor: 'rgba(255, 99, 132,0.2)',
             strokeColor: 'rgba(255, 99, 132,1)',
+            backgroundColor:'rgba(54, 162, 235, 0.6)',
             pointColor: 'rgba(255, 99, 132,1)',
             pointStrokeColor: '#fff',
             pointHighlightFill: '#fff',
-            pointHighlightStroke: 'rgba(255, 99, 132,,1)',
+            pointHighlightStroke: 'rgba(255, 99, 132,1)',
             data: japanidatacases,
         }
         ]
@@ -1080,10 +1083,11 @@ const secondarychartdata = [
             label: 'deaths',
             fillColor: 'rgba(255, 99, 132,0.2)',
             strokeColor: 'rgba(255, 99, 132,1)',
+            backgroundColor:'rgba(54, 162, 235, 0.9)',
             pointColor: 'rgba(255, 99, 132,1)',
             pointStrokeColor: '#fff',
             pointHighlightFill: '#fff',
-            pointHighlightStroke: 'rgba(255, 99, 132,,1)',
+            pointHighlightStroke: 'rgba(255, 99, 132,1)',
             data: japanidatadeaths,
         }
         ]
@@ -1094,11 +1098,10 @@ const secondarychartdata = [
         {
             label: 'cases',
             fillColor: 'rgba(255, 99, 132,0.2)',
-            strokeColor: 'rgba(255, 99, 132,1)',
-            pointColor: 'rgba(255, 99, 132,1)',
+            backgroundColor:'rgba(255, 206, 86, 0.6)',
             pointStrokeColor: '#fff',
             pointHighlightFill: '#fff',
-            pointHighlightStroke: 'rgba(255, 99, 132,,1)',
+            pointHighlightStroke: 'rgba(255, 99, 132,1)',
             data: [472812, 208296, 140544, 923933, 511464, 872460, 821632, 504460],
         }
         ]
@@ -1109,11 +1112,12 @@ const secondarychartdata = [
         {
             label: 'deaths',
             fillColor: 'rgba(255, 99, 132,0.2)',
+            backgroundColor:'rgba(255, 206, 86, 0.9)',
             strokeColor: 'rgba(255, 99, 132,1)',
             pointColor: 'rgba(255, 99, 132,1)',
             pointStrokeColor: '#fff',
             pointHighlightFill: '#fff',
-            pointHighlightStroke: 'rgba(255, 99, 132,,1)',
+            pointHighlightStroke: 'rgba(255, 99, 132,1)',
             data: [5084, 3156, 1952, 6647, 5064, 7860, 6272, 4586],
         }
         ]
@@ -1124,11 +1128,12 @@ const secondarychartdata = [
         {
             label: 'cases',
             fillColor: 'rgba(255, 99, 132,0.2)',
+            backgroundColor:'rgba(75, 192, 192, 0.6)',
             strokeColor: 'rgba(255, 99, 132,1)',
             pointColor: 'rgba(255, 99, 132,1)',
             pointStrokeColor: '#fff',
             pointHighlightFill: '#fff',
-            pointHighlightStroke: 'rgba(255, 99, 132,,1)',
+            pointHighlightStroke: 'rgba(255, 99, 132,1)',
             data: [27451421,24720144,24720144,26300208,31684628,33423107,34835743,35650451]
         }
         ]
@@ -1140,10 +1145,11 @@ const secondarychartdata = [
             label: 'cases',
             fillColor: 'rgba(255, 99, 132,0.2)',
             strokeColor: 'rgba(255, 99, 132,1)',
+            backgroundColor:'rgba(75, 192, 192, 0.9)',
             pointColor: 'rgba(255, 99, 132,1)',
             pointStrokeColor: '#fff',
             pointHighlightFill: '#fff',
-            pointHighlightStroke: 'rgba(255, 99, 132,,1)',
+            pointHighlightStroke: 'rgba(255, 99, 132,1)',
             data: [135228.6748768473, 112877.3698630137, 90549.97802197802, 89456.48979591837, 115637.32846715329, 136979.94672131148, 117688.32094594595, 134530.0037735849]
         }
         ]
@@ -1155,10 +1161,11 @@ const secondarychartdata = [
             label: 'cases',
             fillColor: 'rgba(255, 99, 132,0.2)',
             strokeColor: 'rgba(255, 99, 132,1)',
+            backgroundColor:'rgba(153, 102, 255, 0.6)',
             pointColor: 'rgba(255, 99, 132,1)',
             pointStrokeColor: '#fff',
             pointHighlightFill: '#fff',
-            pointHighlightStroke: 'rgba(255, 99, 132,,1)',
+            pointHighlightStroke: 'rgba(255, 99, 132,1)',
             data: [101031, 75951, 117810, 154364, 156576, 73864, 116630, 95648]
         }
         ]
@@ -1170,6 +1177,7 @@ const secondarychartdata = [
             label: 'deaths',
             fillColor: 'rgba(255, 99, 132,0.2)',
             strokeColor: 'rgba(255, 99, 132,1)',
+            backgroundColor:'rgba(153, 102, 255, 0.9)',
             pointColor: 'rgba(255, 99, 132,1)',
             pointStrokeColor: '#fff',
             pointHighlightFill: '#fff',

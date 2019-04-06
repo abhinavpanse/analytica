@@ -3,12 +3,23 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "babel-polyfill": "^6.26.0",
     "chart.js": "^2.6.0",
+    "convnetjs": "^0.3.0",
+    "gh-pages": "^1.1.0",
+    "materialize-css": "^0.100.2",
+    "ml-regression": "^4.4.2",
+    "mongoose": "^5.4.22",
+    "prop-types": "^15.6.0",
     "react": "^16.8.6",
     "react-chartjs-2": "^2.1.0",
     "react-dom": "^16.8.6",
+    "react-geolocated": "^2.4.1",
+    "react-google-maps": "^9.4.5",
     "react-iframe": "^1.5.0",
     "react-scripts": "2.1.8",
+    "react-vis": "^1.8.1",
+    "regression": "^2.0.0",
     "semantic-ui-react": "^0.86.0",
     "tachyons": "^4.11.1"
   },
@@ -20,6 +31,14 @@
   },
   "eslintConfig": {
     "extends": "react-app"
+  },
+  "devDependencies": {
+    "@types/papaparse": "^4.1.31",
+    "@types/prop-types": "^15.5.2",
+    "enzyme": "^3.2.0",
+    "enzyme-adapter-react-16": "^1.1.0",
+    "enzyme-to-json": "^3.2.2",
+    "react-test-renderer": "^16.2.0"
   },
   "browserslist": [
     ">0.2%",
